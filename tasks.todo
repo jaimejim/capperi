@@ -2,32 +2,33 @@
 ---------------
 
 Content:
-  ☐ Texto principal (intro, valores, producto, etc.)
+  ☐ Texto principal (intro, valores, producto, etc).
   ☐ Textos secundarios.
-  ☐ Photos originales de calidad
+  ☐ Photos originales de calidad.
 
 HTML:
   ✔ Diseño basico en bootstrap @done(2016-12-26 22:01) @project(HTML)
   ✔ Funcionalidad en móvil @done(2016-12-26 22:01) @project(HTML)
   ✔ Funcionalidad en pantallas grandes @done(2016-12-26 22:01) @project(HTML)
-  ☐ Clean code
+  ☐ Clean code.
   ☐ Remove unused pages.
-  ☐ Add blog?
-  ☐ Add social networking stuff
-  ☐ Google maps should shrink on phone
+  ☐ Add blog?.
+  ☐ Add social networking stuff.
+  ☐ Google maps should shrink on phone.
 
 Design:
   ✔ Logo @done(2016-12-26 22:01) @project(Design)
-  ✔ Font (Italianno) @done(2016-12-26 22:01) @project(Design)
-  ☐ Newer Logo with new font
-  ☐ Logo with the caper
+  ✔ Font "Italianno" @done(2016-12-26 22:01) @project(Design)
+  ☐ Newer Logo with new font.
+  ☐ Remove "Project Name" from pictures.
+  ☐ Logo with the caper.
 
 Networking:
   ✔ self-host on github  @done(2016-12-26 22:00) @project(Networking)
-  ☐ Buy Domain
-  ☐ hosting (github still?)
+  ☐ Buy Domain.
+  ☐ hosting (github still?).
   ☐ check DNS, etc.
 
 Costs:
-  ☐ Estimate project cost
-  ☐ Target is ZERO (just yearly domain)
+  ☐ Estimate project cost.
+  ☐ Target is ZERO (just yearly domain).
